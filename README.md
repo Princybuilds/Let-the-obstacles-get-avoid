@@ -53,6 +53,5 @@ Some ideas that can be added later:
 * Implementing a smarter path-planning algorithm so it could detect the obstacle as well as move on a defined path.
 
 
-Made by Princy Turkhiya
-
+## ~Princy Turkhiya
 This project is part of my journey of being a Robotics Engineer. 
